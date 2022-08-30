@@ -8,6 +8,24 @@
 - Have genres
 - Show top anime
 
+# Quick Structure
+
+- Navbar
+- Main -> Routes -> Content
+- Footer
+
+# Files
+
+src
+
+- components
+- pages
+- utils?
+
+# Global data
+
+- useContext and useReducer (mini Redux)
+
 ### Optional future feature
 
 (Database required)
