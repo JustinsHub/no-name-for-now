@@ -1,10 +1,11 @@
 import { FC } from 'react'
+import Main from './components/layout/Main';
 
 const App: FC  = () => {
   return (
-    <div>
-      No name
-    </div>
+    <main>
+      <Main/>
+    </main>
   );
 }
 
