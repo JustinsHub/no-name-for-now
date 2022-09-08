@@ -8,23 +8,9 @@
 - Have genres
 - Show top anime
 
-# Quick Structure
+# Global data usage
 
-- Navbar
-- Main -> Routes -> Content
-- Footer
-
-# Files
-
-src
-
-- components
-- pages
-- utils?
-
-# Global data
-
-- useContext and useReducer (mini Redux)
+- useContext and useReducer to change our global state (mini Redux)
 
 ### Optional future feature
 
